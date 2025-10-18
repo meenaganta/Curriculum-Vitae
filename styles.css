@@ -1,0 +1,20 @@
+.role,
+.side-head {
+    color: green;
+    font-size: 17px;
+    font-weight: bold;
+}
+h3 {
+    font-size: 20px;
+}
+html {
+    margin: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.address,
+.education,
+.media,
+.skills {
+    line-height: 4px;
+    padding-bottom: 7px;
+}
